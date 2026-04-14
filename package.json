@@ -1,0 +1,22 @@
+{
+  "name": "week3-classroom-code",
+  "version": "1.0.0",
+  "description": "Code written during classroom demos in week 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/441-spring-2026/week3-classroom-code.git"
+  },
+  "author": "Cheri Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/441-spring-2026/week3-classroom-code/issues"
+  },
+  "homepage": "https://github.com/441-spring-2026/week3-classroom-code#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
